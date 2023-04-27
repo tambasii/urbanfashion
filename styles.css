@@ -21,3 +21,16 @@
   display: flex;
   align-items: center;
 }
+
+.logo {
+  width: 160px;
+  cursor: pointer;
+}
+
+.cart {
+  width: 40px;
+  cursor: pointer;
+}
+
+nav {
+}
